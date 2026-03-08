@@ -1,4 +1,4 @@
-Yes! It's more professional. Click "Add a README" button on your GitHub page and paste this:
+
 # Weather App 🌤️
 
 A Flutter weather application built for Kevych Solutions test task.
